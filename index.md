@@ -13,7 +13,7 @@
         <h1>MedCare Clinic</h1>
         <p>Dr. Vasudevan, MBBS, DNB Medicine</p>
     </header>
-
+<img src="logo.png" alt="MedCare Clinic Logo">
     <nav>
         <a href="#about">About</a>
         <a href="#services">Services</a>
