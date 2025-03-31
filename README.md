@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MedCare Clinic</title>
-    <!-- Link to style.css (inside the 'css' folder) -->
+    <!-- Link to the CSS file (style.css) -->
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -13,8 +13,19 @@
         <p>Your trusted healthcare provider.</p>
     </header>
 
-    <!-- More content here -->
+    <section>
+        <h2>Our Services</h2>
+        <ul>
+            <li>General Medicine</li>
+            <li>Cardiology</li>
+            <li>Pediatrics</li>
+            <li>Dermatology</li>
+        </ul>
+    </section>
 
+    <footer>
+        <p>Contact us at: <a href="mailto:contact@medcare.com">contact@medcare.com</a></p>
+    </footer>
 </body>
 </html>
 
